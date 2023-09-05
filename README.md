@@ -6,7 +6,7 @@
 ### [-Questão 6:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q6.por)Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
 
 
-### [-Questão 7:]
+### [-Questão 7:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q7.por)Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
 
 
 ### [-Questão 8:]
