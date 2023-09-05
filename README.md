@@ -1,21 +1,21 @@
 # ExerciciosLogica
 
-### [Questão 5:]
+###[Questão 5:]
 
 
-### [Questão 6:]
+###[Questão 6:]
 
 
-### [Questão 7:]
+###[Questão 7:]
 
 
-### [Questão 8:]
+###[Questão 8:]
 
 
-### [Questão 9:]
+###[Questão 9:]
 
 
-### [Questão 10:]
+###[Questão 10:]
 
 
 ### [Questão 11:]
