@@ -15,7 +15,7 @@
 ### [-Questão 9:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q9.por)Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
 
 
-### [-Questão 10:]
+### [-Questão 10:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q10.por) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuido seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e escrever o custo final ao consumidor.
 
 
 ### [-Questão 11:]
