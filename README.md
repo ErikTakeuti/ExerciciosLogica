@@ -1,6 +1,6 @@
 # ExerciciosLogica
 
-### [-Questão 5:]
+### [-Questão 5:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q5.por) Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
 
 
 ### [-Questão 6:]
