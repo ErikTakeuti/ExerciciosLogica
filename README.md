@@ -9,7 +9,7 @@
 ### [-Questão 7:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q7.por)Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
 
 
-### [-Questão 8:]
+### [-Questão 8:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q8.por)Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
 
 
 ### [-Questão 9:]
