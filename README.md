@@ -12,7 +12,7 @@
 ### [-Questão 8:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q8.por)Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
 
 
-### [-Questão 9:]
+### [-Questão 9:](https://github.com/ErikTakeuti/ExerciciosLogica/blob/main/Lista%20de%20exerc%C3%ADcios%20de%20l%C3%B3gica/Q9.por)Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
 
 
 ### [-Questão 10:]
